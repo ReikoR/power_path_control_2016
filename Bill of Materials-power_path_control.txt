@@ -1,0 +1,8 @@
+Comment	Description	Designator	Footprint	Quantity
+
+"HEADER-1"	""	"16V, 16V_GND, 19V_IN, 19V_IN_GND, ELEC_GND, ELEC_PWR, PC_GND, PC_PWR"	"POWER-PAD-4x3"	"8"
+"100n"	"Capacitor SMD Cer 10nF 10% 50V X7R 0603"	"C100"	"CAPC1608X90N"	"1"
+"470u"	"Capacitor"	"C101"	"CAPR5-4X5"	"1"
+"PMOS"	""	"Q30, Q31"	"SO8"	"2"
+"470k"	"Resistor SMD chip 0.0 Ohm 0.1W 0603"	"R101"	"RESC1608N_ZERO"	"1"
+"LTC4412"	""	"U30"	"TSOT-23-6"	"1"
