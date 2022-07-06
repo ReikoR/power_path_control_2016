@@ -1,0 +1,26 @@
+= Power path control board
+
+== Functionality
+
+* Allows to swap batteries without shutting down the PC.
+* Selects the highest voltage power input.
+Recommended inputs are 4S (up to 16.8V) battery and 19V PC power adapter.
+* Two sets of power output pads.
+Common use case would be to use one for PC and other for electronics 
+that share the same GND connection.
+
+== How to use
+
+* Connect board between battery and PC.
+* Swapping battery
+. Connect PC power adapter to second board input.
+. Disconnect battery.
+. Connect replacement battery.
+* Plug in PC power adapter to avoid draining the battery while the robot is stationary.
+Battery can stay connected.
+
+
+== Assembly
+
+image::power_path_control_assembly.svg[]
+
